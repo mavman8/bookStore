@@ -14,5 +14,10 @@ public class BookDTO {
 
     private String title;
 
+    private String description;
+
+    private long id;
+
+    private int releaseYear;
 
 }
